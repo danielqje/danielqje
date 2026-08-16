@@ -6,7 +6,7 @@ Astronomy B.S. student at San Diego State University with a minor in Mathematics
 
 -Astronomy student interested broadly in astronomy and astrophysics
 - Undergraduate astronomy student with research experience in elliptical galaxy spectroscopy
--  Interested in developing skills in scientific Python, data analysis, and computational astronomy
+- Interested in developing skills in scientific Python, data analysis, and computational astronomy
 
 ## Research & Projects
 
@@ -35,6 +35,6 @@ Completed NASA NCAS, serving as an Instrument Engineer on a team mission project
 B.S. Astronomy
 Minor in Mathematics
 
-** San Diego Mesa College**
+**San Diego Mesa College**
 Associate Degree for Transfer in Mathematics
 Associate Degree for Transfer in Physics - In progress
