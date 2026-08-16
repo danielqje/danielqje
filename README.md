@@ -36,5 +36,5 @@ B.S. Astronomy
 Minor in Mathematics
 
 **San Diego Mesa College**
-Associate Degree for Transfer in Mathematics
-Associate Degree for Transfer in Physics - In progress
+- Associate Degree for Transfer in Mathematics
+- Associate Degree for Transfer in Physics - In progress
