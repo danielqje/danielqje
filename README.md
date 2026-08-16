@@ -1,5 +1,4 @@
 # Daniel Quezada Jimenez
-
 Astronomy B.S. student at San Diego State University with a minor in Mathematics.
 
 ## About Me
