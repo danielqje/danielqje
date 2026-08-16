@@ -1,9 +1,10 @@
 # Daniel Quezada Jimenez
+
 Astronomy B.S. student at San Diego State University with a minor in Mathematics.
 
 ## About Me
 
--Astronomy student interested broadly in astronomy and astrophysics
+Astronomy student interested broadly in astronomy and astrophysics
 - Undergraduate astronomy student with research experience in elliptical galaxy spectroscopy
 - Interested in developing skills in scientific Python, data analysis, and computational astronomy
 
