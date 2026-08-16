@@ -12,7 +12,7 @@ Astronomy student interested broadly in astronomy and astrophysics
 
 ### STARTastro Na I D Research
 
-Studying Na I D absorption in model spectra of elliptical galaxies and how stellar absorption can affect interpretations of gas inflow and outflow.
+Studying Na I D absorption in model spectra of elliptical galaxies and how stellar absorption can affect interpretations of gas inflow.
 [View the project](https://github.com/danielqje/STARTastro-Na-I-D-Research)
 
 ### NASA Community College Aerospace Scholars (NCAS)
@@ -32,8 +32,8 @@ Completed NASA NCAS, serving as an Instrument Engineer on a team mission project
 
 ## Education
 **San Diego State University**
-B.S. Astronomy
-Minor in Mathematics
+- Bachelors of Science in Astronomy
+- Minor in Mathematics
 
 **San Diego Mesa College**
 - Associate Degree for Transfer in Mathematics
