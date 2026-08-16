@@ -4,8 +4,8 @@ Astronomy B.S. Student at San Diego State University with a Minor in Mathematics
 
 ## About Me
 
-Astronomy student interested broadly in astronomy and astrophysics
-- Undergraduate astronomy student with research experience in elliptical galaxy spectroscopy
+Astronomy student interested broadly in astronomy and astrophysics:
+- Research experience in elliptical galaxy spectroscopy
 - Interested in developing skills in scientific Python, data analysis, and computational astronomy
 
 ## Research & Projects
