@@ -1,9 +1,7 @@
 # Daniel Quezada Jimenez
-
 Astronomy B.S. Student at San Diego State University with a Minor in Mathematics.
 
 ## About Me
-
 Astronomy student interested broadly in astronomy and astrophysics:
 - Research experience in elliptical galaxy spectroscopy
 - Interested in developing skills in scientific Python, data analysis, and computational astronomy
@@ -11,15 +9,13 @@ Astronomy student interested broadly in astronomy and astrophysics:
 ## Research & Projects
 
 ### STARTastro Na I D Research
-
 Studying Na I D absorption in model spectra of elliptical galaxies and how stellar absorption can affect interpretations of gas inflow.
 [View the project](https://github.com/danielqje/STARTastro-Na-I-D-Research)
 
 ### NASA Community College Aerospace Scholars (NCAS)
-Completed NASA NCAS, serving as an Instrument Engineer on a team mission project, and contributed to mission planning and research to deliver safe and nutritious food to the Moon.
+Completed NASA NCAS, including research on NASA's history, missions, and the James Webb Space Telescope (JWST), and created an infographic on JWST. Later served as an Instrument Engineer on a team mission project, contributing to mission planning and research for a concept focused on delivering safe and nutritious food to the Moon.
 
 ## Technical Skills
-
 - Python
 - NumPy
 - Matplotlib
