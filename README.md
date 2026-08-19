@@ -28,9 +28,9 @@ Completed NASA NCAS, including research on NASA's history, missions, and the Jam
 
 ## Education
 **San Diego State University**
-- Bachelor of Science in Astronomy
+- Bachelor of Science (B.S.) in Astronomy
 - Minor in Mathematics
 
 **San Diego Mesa College**
-- Associate Degree for Transfer in Mathematics
-- Associate Degree for Transfer in Physics - In progress
+- Associate in Science for Transfer (A.S.-T.) in Mathematics
+- Associate in Science for Transfer (A.S.-T.) in Physics - In progress
