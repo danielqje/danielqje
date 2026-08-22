@@ -15,6 +15,9 @@ Studying Na I D absorption in model spectra of elliptical galaxies and how stell
 ### NASA Community College Aerospace Scholars (NCAS)
 Completed NASA NCAS, including research on NASA's history, missions, and the James Webb Space Telescope (JWST), and created an infographic on JWST. Later served as an Instrument Engineer on a team mission project, contributing to mission planning and research for a concept focused on delivering safe and nutritious food to the Moon.
 
+### Personal Academic Website
+An independently designed and developed portfolio website documenting my academic background, astronomy research, projects, honors, and professional development. I built it using HTML and CSS and deployed through GitHub pages.
+
 ## Technical Skills
 - Python
 - NumPy
