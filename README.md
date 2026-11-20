@@ -17,7 +17,7 @@ Completed NASA NCAS, including research on NASA's history, missions, and the Jam
 
 ### Personal Academic Website
 An independently designed and developed portfolio website documenting my academic background, astronomy research, projects, honors, and professional development. I built it using HTML and CSS and deployed through GitHub pages. 
-[View the project] (https://danielqje.github.io/)
+https://danielqje.github.io/
 
 ## Technical Skills
 - Spectroscopy
